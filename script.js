@@ -64,14 +64,3 @@ function validateForm() {
   // Jika semua validasi sukses
   return true;
 }
-
-AOS.init({
-  duration: 1000,
-  offset: 200,
-  delay: 200, 
-  easing: "ease-in-out", 
-});
-
-
-
-//autotype
